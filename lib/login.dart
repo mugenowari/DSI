@@ -44,16 +44,6 @@ class LoginForm extends StatefulWidget {
 class LoginFormState extends State<LoginForm> {
   final _formKey = GlobalKey<FormState>();
 
-  // void _forgotPassword_old() {
-  //   dsiDialog.showInfo(
-  //     context: context,
-  //     title: 'Warning',
-  //     message: '''Falta implementar esta função.\n'''
-  //         '''Agora é com você:\n'''
-  //         '''Implemente uma tela para esta funcionalidade!''',
-  //   );
-  // }
-
   void _login() {
     if (!_formKey.currentState.validate()) return;
 
