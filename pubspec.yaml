@@ -50,8 +50,8 @@ flutter:
     - images/jadeu.png
     - images/thug1.jpg
     - images/thug2.gif
-    - images/seta.png
     - images/setaw.png
+    - images/seta.png
     - images/logo/
 
   # An image asset can refer to one or more resolution-specific "variants", see
