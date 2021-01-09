@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103004248883",
+    "project_id": "topico4-b0879",
+    "storage_bucket": "topico4-b0879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103004248883:android:9fc8903d74faa609907c46",
+        "android_client_info": {
+          "package_name": "br.ufrpe.bsi.dsi.dsi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103004248883-h3rae4f5h7cp6r0puanon89ir98rmloq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfkwwaFr5Ruiz8jwBs0QhPnSg_gLBbsrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103004248883-h3rae4f5h7cp6r0puanon89ir98rmloq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
